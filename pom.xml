@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  	<groupId>mx.com.odraudek99</groupId>
+  <artifactId>metodos-inyeccion-spring</artifactId>
+  <version>1.0</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>spring-inyeccion-01</module>
+    <module>spring-inyeccion-02</module>
+    <module>spring-inyeccion-03</module>
+    <module>spring-inyeccion-04</module>
+    <module>spring-inyeccion-05</module>
+    <module>spring-inyeccion-06</module>
+    <module>spring-inyeccion-07</module>
+    <module>spring-inyeccion-08</module>
+    <module>spring-inyeccion-09</module>
+    <module>spring-inyeccion-10</module>
+  </modules>
+</project>
