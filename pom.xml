@@ -10,15 +10,15 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>spring-inyeccion-01</module>
-    <module>spring-inyeccion-02</module>
-    <module>spring-inyeccion-03</module>
-    <module>spring-inyeccion-04</module>
-    <module>spring-inyeccion-05</module>
-    <module>spring-inyeccion-06</module>
-    <module>spring-inyeccion-07</module>
-    <module>spring-inyeccion-08</module>
-    <module>spring-inyeccion-09</module>
-    <module>spring-inyeccion-10</module>
+    <module>01-spring-inyeccion</module>
+    <module>02-spring-inyeccion</module>
+    <module>03-spring-inyeccion</module>
+    <module>04-spring-inyeccion</module>
+    <module>05-spring-inyeccion</module>
+    <module>06-spring-inyeccion</module>
+    <module>07-spring-inyeccion</module>
+    <module>08-spring-inyeccion</module>
+    <module>09-spring-inyeccion</module>
+    <module>10-spring-inyeccion</module>
   </modules>
 </project>
